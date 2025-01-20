@@ -1,7 +1,7 @@
 ---
 title: "NCAT12-DET: A New Benchmark Dataset for Surface Defect Detection and a Comparative Study"
 collection: publications
-category: manuscripts
+category: journals
 permalink: /publication/2024-05-20-paper-title-number-3
 date: 2024-05-20
 venue: 'IEEE Access'
