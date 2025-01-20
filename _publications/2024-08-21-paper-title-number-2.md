@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2024-08-21-paper-title-number-2
 date: 2024-08-21
 venue: 'IEEE Transactions on Industrial Cyber-Physical Systems'
-paperurl: '[http://xuyangabert.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/10643314)'
+paperurl: '[http://xuyangabert.github.io/files/paper2.pdf]'
 ---
