@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About me**
+About me
+---
 I am Xuyang Yan, a passionate researcher in machine learning and autonomous systems, with expertise in 
 non-stationary data stream clustering, anomaly detection, and feature selection. I received his B.S. degree 
 in Electrical Engineering from North Carolina Agricultural and Technical State University (NC A&T) and 
@@ -15,15 +16,14 @@ electrical engineering at NC A&T, respectively. My research interests include cl
 feature selection, data stream analysis, active learning, anomaly detection, and the application of 
 machine learning techniques in autonomous vehicles. 
 
-**Research Interests**
+Research Interests
+---
+
 Currently, I am developing fairness-aware AI models and building pipelines for handling complex data 
 in both structured and unstructured formats. My goal is to push the boundaries of AI to create innovative 
 and practical solutions that have meaningful impacts.
 
-**Interests**
+Interests
+---
 When I’m not working, I enjoy exploring interdisciplinary AI applications and collaborating 
 with professionals from diverse domains. Also, I am a big fan of Tennis and continuously improving my tennis skills.
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
