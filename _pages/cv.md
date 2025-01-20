@@ -22,14 +22,13 @@ Work experience
 ======
 * Feb. 2023 - Present: Workforce Analytics Data Scientist  
   * JP Morgan Chase Co., Plano, TX  
-  * Manager: Michael Perrotte  
   * Duties: 
-    - Developed fairness-aware applicant matching models using structured and unstructured data.
+    - Developed fairness-aware intelligent matching models using structured and unstructured data.
     - Designed end-to-end topic modeling pipelines for unstructured text data.
     - Implemented multi-label topic classification and online topic modeling pipelines.
     - Leveraged large language models (LLMs) for topic label generation and quality checks.
 
-* Aug. 2018 - Present: Research Assistant  
+* Aug. 2018 - Dec. 2022: Research Assistant  
   * North Carolina A&T State University, Greensboro, NC  
   * Advisor: Dr. Abdollah Homaifar  
   * Duties: 
