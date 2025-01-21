@@ -96,6 +96,9 @@ Service and leadership
   - Computers & Security, Elsevier
   - PeerJ Computer Science
   - Journal of Intelligent & Fuzzy Systems, Springer Nature
+* Conference services:
+  - IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2024 Special Session on Computational Imaging, Vision, and Language (CIVIL): Presenting Chair
+  - International Joint Conference on Artificial Intelligence (IJCAI) 2025: PC Members
 * Professional Memberships:
   - IEEE Member
   - IEEE Society of Systems, Man, and Cybernetics
