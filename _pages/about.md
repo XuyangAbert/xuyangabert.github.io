@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuyang Yan's Academic personal websites"
+title: "Xuyang Yan's personal websites"
 author_profile: true
 redirect_from: 
   - /about/
