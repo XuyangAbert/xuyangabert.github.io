@@ -79,11 +79,14 @@ Service and leadership
   - IEEE Transactions on Evolutionary Computation
   - IEEE/CAA Journal of Automatica Sinica
   - IEEE Transactions on Multimedia
+  - IEEE Transactions on Big Data
   - IEEE Transactions on Systems, Man and Cybernetics: Systems
   - IEEE Transactions on Information Forensics & Security
   - IEEE Transactions on Emerging Topics in Computational Intelligence
-  - IEEE Transactions on Industrial Informatics
+  - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Intelligent Vehicles
   - IEEE Transactions on Artificial Intelligence
+  - IEEE Sensors
   - IEEE Access
   - Expert Systems with Applications, Elsevier
   - Swarm and Evolutionary Computation, Elsevier
