@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2024-05-20-paper-title-number-3
 date: 2024-05-20
 venue: 'IEEE Access'
-paperurl: 'http://xuyangabert.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10534768'
 ---
