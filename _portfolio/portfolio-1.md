@@ -1,6 +1,6 @@
 ---
 title: "Certificate"
-excerpt: "Natural Language Processing with Probabilistic Models<br/><img src='/images/500x300.png'>"
+excerpt: "Certificate - 1<br/><img src='/images/Coursera%20GF5K7KHSXGZR.pdf'>"
 collection: portfolio
 ---
 
