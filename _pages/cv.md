@@ -23,10 +23,10 @@ Work experience
 * Feb. 2023 - Present: Workforce Analytics Data Scientist  
   * JP Morgan Chase Co., Plano, TX  
   * Duties: 
-    - Developed fairness-aware intelligent matching models using structured and unstructured data.
-    - Designed end-to-end topic modeling pipelines for unstructured text data.
+    - Developed fairness-aware AI models for business applications using structured and unstructured data.
+    - Designed end-to-end NLP pipelines for topic mining in unstructured text data.
     - Implemented multi-label topic classification and online topic modeling pipelines.
-    - Leveraged large language models (LLMs) for topic label generation and quality checks.
+    - Leveraged large language models (LLMs) for topic summary generation and quality checks.
 
 * Aug. 2018 - Dec. 2022: Research Assistant  
   * North Carolina A&T State University, Greensboro, NC  
