@@ -72,10 +72,27 @@ Talks
 Service and leadership
 ======
 * Peer Reviewer:
-  - IEEE Transactions on Artificial Intelligence
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Intelligent Transportation Systems
-  - Elsevier Neurocomputing
+  - IEEE Transactions on Industrial Informatics
+  - IEEE Transactions on Evolutionary Computation
+  - IEEE/CAA Journal of Automatica Sinica
+  - IEEE Transactions on Multimedia
+  - IEEE Transactions on Systems, Man and Cybernetics: Systems
+  - IEEE Transactions on Information Forensics & Security
+  - IEEE Transactions on Emerging Topics in Computational Intelligence
+  - IEEE Transactions on Industrial Informatics
+  - IEEE Transactions on Artificial Intelligence
+  - IEEE Access
+  - Expert Systems with Applications, Elsevier
+  - Swarm and Evolutionary Computation, Elsevier
+  - Engineering Applications of Artificial Intelligence, Elsevier
+  - Journal of King Saud University - Computer and Information Sciences, Elsevier
+  - Neurocomputing, Elsevier
+  - Computers & Security, Elsevier
   - PeerJ Computer Science
+  - Journal of Intelligent & Fuzzy Systems, Springer Nature
 * Professional Memberships:
   - IEEE Member
   - IEEE Society of Systems, Man, and Cybernetics
