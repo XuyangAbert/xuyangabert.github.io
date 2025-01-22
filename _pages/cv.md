@@ -55,6 +55,10 @@ Skills
 * Autonomous Systems
   * Sensor fault diagnostics
   * Anomaly detection
+* Programming Languages:
+  * Python, R, SQL, C++, MATLAB, SAS, AWS, Google Colab, Massive Online Analysis (MOA), Apache Spark, Hadoop, VHDL, Git, Microsoft Office.
+* Python basic packages
+  * Scikit-learn, Numpy, Pandas, Pytorch, NLTK, Matplotlib, Transformers, Sentence-Transformer, Tensor- flow, Keras, Seaborn, Scipy, Orange3.
 
 Publications
 ======
