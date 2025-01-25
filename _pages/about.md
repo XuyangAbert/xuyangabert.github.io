@@ -22,10 +22,10 @@ Research Interests
 Currently, I am developing fairness-aware AI models and building pipelines for handling complex data 
 in both structured and unstructured formats. My goal is to push the boundaries of AI to create innovative 
 and practical solutions that have meaningful impacts. I am also interested in topics include but not limits to:  
-- Graph neural networks (GNN) and Graph-Mamba
+- Graph neural networks (GNNs) and Graph-Mamba
 - GNN in Recommender System Design
 - GNN in Social Network Modeling
-- GNN for casual inference
+- GNN for Casual Inference
 
 Interests
 ---
