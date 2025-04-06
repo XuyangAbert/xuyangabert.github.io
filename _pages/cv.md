@@ -89,10 +89,12 @@ Service and leadership
   - IEEE Transactions on Emerging Topics in Computational Intelligence
   - IEEE Transactions on Signal Processing
   - IEEE Transactions on Intelligent Vehicles
-  - IEEE Transactions on Artificial Intelligence
   - IEEE Transactions on Information Forensics & Security
+  - IEEE Transactions on Artificial Intelligence
+  - IEEE Transactions on Fuzzy Systems
   - IEEE Sensors
   - IEEE Access
+  - ACM Computing Survey
   - Expert Systems with Applications, Elsevier
   - Swarm and Evolutionary Computation, Elsevier
   - Engineering Applications of Artificial Intelligence, Elsevier
