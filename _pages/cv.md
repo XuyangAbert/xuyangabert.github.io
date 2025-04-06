@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* Feb. 2023 - Present: Workforce Analytics Data Scientist  
+* Feb. 2023 - Present: Workforce Analytics, Applied AI/ML Associate Sr.
   * JP Morgan Chase Co., Plano, TX  
   * Duties: 
-    - Developed fairness-aware AI models for business applications using structured and unstructured data.
+    - Developed fairness-aware AI-based recommender systems for business applications (job recommendations) using structured and unstructured data.
     - Designed end-to-end NLP pipelines for topic mining in unstructured text data.
     - Implemented multi-label topic classification and online topic modeling pipelines.
     - Leveraged large language models (LLMs) for topic summary generation and quality checks.
@@ -84,12 +84,13 @@ Service and leadership
   - IEEE/CAA Journal of Automatica Sinica
   - IEEE Transactions on Multimedia
   - IEEE Transactions on Big Data
+  - IEEE Transactions on Systems, Man and Cybernetics: Cybernetics
   - IEEE Transactions on Systems, Man and Cybernetics: Systems
-  - IEEE Transactions on Information Forensics & Security
   - IEEE Transactions on Emerging Topics in Computational Intelligence
   - IEEE Transactions on Signal Processing
   - IEEE Transactions on Intelligent Vehicles
   - IEEE Transactions on Artificial Intelligence
+  - IEEE Transactions on Information Forensics & Security
   - IEEE Sensors
   - IEEE Access
   - Expert Systems with Applications, Elsevier
@@ -97,10 +98,11 @@ Service and leadership
   - Engineering Applications of Artificial Intelligence, Elsevier
   - Journal of King Saud University - Computer and Information Sciences, Elsevier
   - Neurocomputing, Elsevier
+  - Knowledge-based Systems, Elsevier
   - Computers & Security, Elsevier
   - PeerJ Computer Science
   - Journal of Intelligent & Fuzzy Systems, Springer Nature
-* Conference services:
+* Conference Services:
   - IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2024 Special Session on Computational Imaging, Vision, and Language (CIVIL): Presenting Chair
   - International Joint Conference on Artificial Intelligence (IJCAI) 2025: PC Member
 * Professional Memberships:
