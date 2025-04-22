@@ -78,6 +78,7 @@ Service and leadership
 * Peer Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - IEEE Transactions on Knowledge and Data Engineering
+  - IEEE Transactions on Neural Network and Learning Systems
   - IEEE Transactions on Intelligent Transportation Systems
   - IEEE Transactions on Industrial Informatics
   - IEEE Transactions on Evolutionary Computation
@@ -107,6 +108,7 @@ Service and leadership
 * Conference Services:
   - IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2024 Special Session on Computational Imaging, Vision, and Language (CIVIL): Presenting Chair
   - International Joint Conference on Artificial Intelligence (IJCAI) 2025: PC Member
+  - European Conference on Artificial Intelligence (ECAI) 2025: PC Member
 * Professional Memberships:
   - IEEE Member
   - IEEE Society of Systems, Man, and Cybernetics
